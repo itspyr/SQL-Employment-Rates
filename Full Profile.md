@@ -6,16 +6,15 @@
 - **SQL Code** - 
 
 
-<img width="400" alt="Employed Full Time Output" src="https://github.com/user-attachments/assets/2cd6ba58-a965-49eb-99e0-2db207545f20" />
-
+<img width="400" alt="Employed Full-Time Top 10 Countries" src="https://github.com/user-attachments/assets/d0c29b9c-3a41-4f61-aba4-46e40d2c71b4" />
 
 
 
 - **Output** - 
 
 
-<img width="400" alt="Employed Full-Time Top 10 Countries" src="https://github.com/user-attachments/assets/d0c29b9c-3a41-4f61-aba4-46e40d2c71b4" />
 
+<img width="400" alt="Employed Full Time Output" src="https://github.com/user-attachments/assets/2cd6ba58-a965-49eb-99e0-2db207545f20" />
 
 
 The country with the **most** employed and full-time workers is the **United States** with **7389** people.
