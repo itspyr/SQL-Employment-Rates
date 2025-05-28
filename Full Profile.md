@@ -1,7 +1,7 @@
 # SQL-Employment-Rates
-## *Analyzing a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry.*
+## 📌 *Analyzing a 2024 public survey data set to uncover what skills, roles, and locations are most associated with employment and higher salary in the tech industry.*
 
-Out of the **186** countries that participated in this survey, what xare the top 10 countries with the most **employed full-time** people?
+🌍 Out of the **186** countries that participated in this survey, what xare the top 10 countries with the most **employed full-time** people?
 
 - **SQL Code** - 
 
