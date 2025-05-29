@@ -3,7 +3,7 @@
 
 🌍 Out of the **186** countries that participated in this survey, what xare the top 10 countries with the most **employed full-time** people?
 
-- **SQL Code** - 
+- **SQL Query** - 
 
 
 <img width="400" alt="Employed Full-Time Top 10 Countries" src="https://github.com/user-attachments/assets/d0c29b9c-3a41-4f61-aba4-46e40d2c71b4" />
